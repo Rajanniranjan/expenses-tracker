@@ -2,14 +2,15 @@
   position: sticky;
   width: 100%;
   padding: 0.75rem 1.5rem;
-  background-color: var(--theme);
+  /* background-color: var(--theme); */
+  background-color: rgb(127, 172, 255);
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 
 .navbar-heading {
-  color: #fff;
+  color: #ffffff;
   font-weight: 500;
   margin: 0px;
   font-size: 1.2rem;
